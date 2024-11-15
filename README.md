@@ -70,5 +70,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or support regarding the Connectophile project, feel free to reach out via email at [sanand03027005@gmail.com](mailto:sanand03027005@gmail.com?subject=Inquiry%20about%20Connectophile%20Project) or connect with me on [LinkedIn](https://www.linkedin.com/in/anands37/).
+For any inquiries or support regarding the Connectophile project, feel free to reach out via email at [sanand03027005@gmail.com](mailto:sanand03027005@gmail.com?subject=Inquiry%20about%20Connectophile%20Project) or connect with me on [LinkedIn](https://www.linkedin.com/in/anandsundaramoorthysa/).
 
